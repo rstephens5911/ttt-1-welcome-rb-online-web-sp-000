@@ -3,6 +3,6 @@
 # ruby lib/welcome.rb from your terminal.
 def welcome_msg
   puts "Welcome to Tic Tac Toe!"
-ends
+end
 
 welcome_msg
